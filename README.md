@@ -1,4 +1,6 @@
-**Loan Approval Prediction using Machine Learning**
+#Loan Approval Prediction using Machine Learning
+____________________________________________________
+
 
 **Overview:**
 This repository contains a machine learning model to predict whether a loan application will be approved by a bank based on applicant information. The model is trained on historical data and uses various features such as income, credit score, and employment status to make predictions.
