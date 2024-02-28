@@ -53,5 +53,4 @@ It's crucial to address potential bias and discrimination in the lending process
 
 **Contributing:**
 mehrdad.orouei@yahoo.com
-**License:**
-This project is licensed under the MIT License - see the LICENSE file for details.
+
