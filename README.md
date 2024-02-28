@@ -1,5 +1,4 @@
 ## Loan Approval Prediction using Machine Learning
-____________________________________________________
 
 
 **Overview:**
