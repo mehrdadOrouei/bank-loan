@@ -1,17 +1,25 @@
-##Loan Approval Prediction using Machine Learning
+**Loan Approval Prediction using Machine Learning**
 
 **Overview:**
 This repository contains a machine learning model to predict whether a loan application will be approved by a bank based on applicant information. The model is trained on historical data and uses various features such as income, credit score, and employment status to make predictions.
 
 **Dataset:**
 The dataset used for training the model consists of historical loan application data, including both approved and rejected applications. It contains features such as:
-- Income
-- Credit Score
-- Employment Status
-- Loan Amount
-- Loan Purpose
-- Debt-to-Income Ratio
-- etc.
+
+Loan_ID,
+Gender,
+Married,
+Dependents,
+Education,
+Self_Employed,
+ApplicantIncome,
+CoapplicantIncome,
+LoanAmount,
+Loan_Amount_Term,
+Credit_History,
+Property_Area,
+Loan_Status
+
 
 **Preprocessing:**
 Before training the model, the data is preprocessed to handle missing values, encode categorical variables, and scale numerical features if necessary. Feature selection and engineering may also be performed to improve model performance.
@@ -38,12 +46,11 @@ It's crucial to address potential bias and discrimination in the lending process
 - NumPy
 
 **Usage:**
-1. Clone the repository: `git clone https://github.com/your/repository.git`
+1. Clone the repository: `ttps://github.com/mehrdadOrouei/bank-loan.git`
 2. Install dependencies: `pip install -r requirements.txt`
-3. Run the notebook/script to train the model and make predictions.
+3. Run the loan.ipynb to train the model and make predictions.
 
 **Contributing:**
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
-
+mehrdad.orouei@yahoo.com
 **License:**
 This project is licensed under the MIT License - see the LICENSE file for details.
